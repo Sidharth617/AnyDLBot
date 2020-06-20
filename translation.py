@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = """👋Hi I'm <b>FC UPLOADER Bot😊:</b>
+    START_TEXT = """👋Hi I'm <b>FC UPLOADER BOT😊:</b>
     /help to know how to use me
 <b>For using me Contact:@aram_thamburan:</b>
   <b>👉 I Can Do Multiple Things:</b>
